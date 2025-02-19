@@ -1,39 +1,51 @@
-# 👋 Olá, sou o Thiago!
+<h1 align="center">🚀 Thiago | Backend Developer</h1>
 
-🎓 Estudante de **Ciência da Computação** na **PUC Minas**  
-🌍 Experiência internacional: **2 anos no exterior**  
-   - 🇺🇸 **1 ano** na *North American University* (Houston, TX)  
-   - 🇺🇸 **1 ano** na *USC Salkehatchie* (South Carolina)  
+<p align="center">
+  🎓 Estudante de <strong>Engenharia de Software</strong> na <strong>PUC Minas</strong> <br>
+  🌍 Experiência internacional: <strong>2 anos nos EUA</strong> <br>
+</p>
 
-💡 **Habilidades interpessoais** desenvolvidas como:  
-   - 🏫 Tutor e mentor na **NAU**  
-   - 📚 Instrutor de inglês (ESL) na **Preply**  
+<p align="center">
+  🇺🇸 <strong>1 ano</strong> na <em>North American University</em> (Houston, TX) <br>
+  🇺🇸 <strong>1 ano</strong> na <em>USC Salkehatchie</em> (South Carolina) <br>
+</p>
 
 ---
 
-## 💻 Tecnologias e Habilidades
+## 🛠️ Tech Stack  
 
-🔹 **Backend Developer** | Foco em **Java** e **SQL**  
-🔹 **Frameworks & Ferramentas**:  
-   - ⚙️ Spring, Swing, Jackson, OpenAI, JPA  
-   - 🔗 APIs REST, Git  
-   - 🛢️ Bancos de dados relacionais  
+🔥 **Backend Developer** | **Java** & **SQL**  
+🚀 **Frameworks & Ferramentas**:  
+   - ⚙️ **Spring**, **Swing**, **Jackson**, **OpenAI**, **JPA**  
+   - 🔗 **APIs REST**, **Git**  
+   - 🛢️ **Bancos de dados relacionais**  
 
-🔹 **Front-end**:  
-   - 🌐 HTML, CSS, JavaScript  
+🖥️ **Front-end**:  
+   - 🌐 **HTML**, **CSS**, **JavaScript**  
 
-🔹 **Idiomas**:  
+🌎 **Idiomas**:  
    - 🇧🇷 **Português** (Nativo)  
    - 🇺🇸 **Inglês** (Fluente)  
    - 🇪🇸 **Espanhol** (Avançado)  
 
 ---
 
-## 🚀 Sobre mim
+## 🏆 Soft Skills & Experiência  
 
-Além da tecnologia, sou apaixonado por:  
-⚽ Futebol | 🏋️ Fitness | ₿ Criptomoedas  
+✅ **Habilidades interpessoais** desenvolvidas como:  
+   - 🏫 **Tutor & Mentor** na *NAU*  
+   - 📚 **Instrutor de Inglês (ESL)** na *Preply*  
+
+💡 **Sempre buscando inovação e desafios!**  
 
 ---
 
-🚀 Sempre buscando novos desafios e aprendizados!  
+## 🎯 Sobre Mim  
+
+💀 **Viciado em tecnologia e performance!**  
+⚡ **Paixões além do código**:  
+   - ⚽ **Futebol**  
+   - 🏋️ **Fitness**  
+   - ₿ **Criptomoedas & Investimentos**  
+
+🔥 *"The best way to predict the future is to create it."*  
