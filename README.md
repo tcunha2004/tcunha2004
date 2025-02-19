@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Thiago | Backend Developer</h1>
+<h1 align="center">🚀 Thiago | Software Engineer</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Engenharia de Software</strong> na <strong>PUC Minas</strong> <br>
