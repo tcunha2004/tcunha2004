@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  🇺🇸 <strong>1 ano</strong> na <em>North American University</em> (Houston, TX) <br>
-  🇺🇸 <strong>1 ano</strong> na <em>USC Salkehatchie</em> (South Carolina) <br>
+  🇺🇸 <em>North American University</em> (Houston, TX) <br>
+  🇺🇸 <em>USC Salkehatchie</em> (South Carolina) <br>
 </p>
 
 ---
@@ -29,12 +29,6 @@
    - 🇪🇸 **Espanhol** (Avançado)  
 
 ---
-
-## 🏆 Soft Skills & Experiência  
-
-✅ **Habilidades interpessoais** desenvolvidas como:  
-   - 🏫 **Tutor & Mentor** na *NAU*  
-   - 📚 **Instrutor de Inglês (ESL)** na *Preply*  
 
 💡 **Sempre buscando inovação e desafios!**  
 
