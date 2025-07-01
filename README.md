@@ -14,14 +14,12 @@
 
 ## 🛠️ Tech Stack  
 
-🔥 **Backend Developer** | **Java** & **SQL**  
+🔥 **Full-Stack Developer** | **Java** - **SQL** - **React.js** 
 🚀 **Frameworks & Ferramentas**:  
    - ⚙️ **Spring**, **Swing**, **Jackson**, **OpenAI**, **JPA**  
    - 🔗 **APIs REST**, **Git**  
-   - 🛢️ **Bancos de dados relacionais**  
-
-🖥️ **Front-end**:  
-   - 🌐 **HTML**, **CSS**, **JavaScript**  
+   - 🛢️ **Bancos de dados relacionais**
+ 
 
 🌎 **Idiomas**:  
    - 🇧🇷 **Português** (Nativo)  
