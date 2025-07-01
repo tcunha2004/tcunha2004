@@ -15,6 +15,7 @@
 ## 🛠️ Tech Stack  
 
 🔥 **Full-Stack Developer** | **Java** - **SQL** - **React.js** 
+
 🚀 **Frameworks & Ferramentas**:  
    - ⚙️ **Spring**, **Swing**, **Jackson**, **OpenAI**, **JPA**  
    - 🔗 **APIs REST**, **Git**  
