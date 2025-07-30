@@ -1,44 +1,14 @@
-<h1 align="center">🚀 Thiago | Software Engineer</h1>
+# Thiago Cunha
 
-<p align="center">
-  🎓 Estudante de <strong>Engenharia de Software</strong> na <strong>PUC Minas</strong> <br>
-  🌍 Experiência internacional: <strong>2 anos nos EUA</strong> <br>
-</p>
+Software Engineering @**PUC Minas** | Intern @**MIP Construtora**
 
-<p align="center">
-  🇺🇸 <em>North American University</em> (Houston, TX) <br>
-  🇺🇸 <em>USC Salkehatchie</em> (South Carolina) <br>
-</p>
+<a href="https://www.linkedin.com/in/thiago-cunha-abb76732b/">
+  <img src="https://img.shields.io/badge/Thiago%20Cunha-blue?style=for-the-badge&logo=logmein" />
+</a>
+<a href="mailto:tcunhalinkedin@gmail.com">
+  <img src="https://img.shields.io/badge/tcunhalinkedin@gmail.com-blue?style=for-the-badge&logo=gmail" />
+</a>
+<br/><br/>
+🔥 Full-Stack Developer | Java - React.js - SQL - Python
 
----
-
-## 🛠️ Tech Stack  
-
-🔥 **Full-Stack Developer** | **Java** - **SQL** - **React.js** 
-
-🚀 **Frameworks & Ferramentas**:  
-   - ⚙️ **Spring**, **Swing**, **Jackson**, **OpenAI**, **JPA**  
-   - 🔗 **APIs REST**, **Git**  
-   - 🛢️ **Bancos de dados relacionais**
- 
-
-🌎 **Idiomas**:  
-   - 🇧🇷 **Português** (Nativo)  
-   - 🇺🇸 **Inglês** (Fluente)  
-   - 🇪🇸 **Espanhol** (Avançado)  
-
----
-
-💡 **Sempre buscando inovação e desafios!**  
-
----
-
-## 🎯 Sobre Mim  
-
-💀 **Viciado em tecnologia e performance!**  
-⚡ **Paixões além do código**:  
-   - ⚽ **Futebol**  
-   - 🏋️ **Fitness**  
-   - ₿ **Criptomoedas & Investimentos**  
-
-🔥 *"The best way to predict the future is to create it."*  
+💡 Sempre buscando inovação e desafios!
