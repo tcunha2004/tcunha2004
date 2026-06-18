@@ -9,6 +9,6 @@ Software Engineering @**FIAP**
   <img src="https://img.shields.io/badge/tcunhalinkedin@gmail.com-008700?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br/><br/>
-🔥 Full-Stack Developer | Angular | NestJS | SQL | Docker | AWS 
+🔥 Full-Stack Developer | Angular | NestJS | SQL | Docker | Redis
 
 💡 Sempre buscando inovação e desafios!
