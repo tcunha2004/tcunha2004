@@ -42,4 +42,4 @@ Belo Horizonte, Brazil · Fluent in English · [LinkedIn](https://linkedin.com/i
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=tcunha2004&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="Thiago's GitHub stats" />
+![GitHub stats](./profile/stats.svg)
