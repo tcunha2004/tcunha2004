@@ -1,45 +1,38 @@
 # Thiago Cunha
 
-Full Stack Software Engineer building **AI agent systems** and **high-performance backends** in Go, TypeScript, and Node.js.
+Full-stack software engineer building **AI agent systems** and **high-performance backends** in Go, TypeScript, and Node.js.
 
 Belo Horizonte, Brazil · Fluent in English · [LinkedIn](https://linkedin.com/in/thiago-cunh4) · [Email](mailto:tcunhalinkedin@gmail.com)
 
-## Currently
+**Now:** Software Engineer at **ValleAI**, building Go microservices, AI agents, and RAG pipelines (embeddings + pgvector) for a multi-agent platform.  
+**Before:** Full Stack Developer at **Zoppy** (SaaS CRM used by thousands of users · NestJS, Angular, AWS) and IT Intern at **MIP Construtora**.
 
-- Software Engineer at **ValleAI**: building Go microservices and RAG pipelines (embeddings + pgvector) for a multi-agent AI platform.
-- Studying Software Engineering at **FIAP**.
+Most of my day-to-day code lives in private company repositories. The projects below are my public work.
 
 ## Selected work
 
-- **[Truthy](https://truthyy.vercel.app)**: a job-search platform for developers. A Go worker pulls listings directly from company ATSs (Lever, Greenhouse), and embeddings power semantic search and personalized recommendations.  
-  `Go` `Next.js` `TypeScript` `PostgreSQL` `pgvector` `Redis` `OpenAI` · [Source code](https://github.com/tcunha2004/truthy)
+- **Truthy**: job search for developers, with listings pulled straight from company ATSs (Lever, Greenhouse) and embedding-based semantic search and recommendations.  
+  `Go` `Next.js` `TypeScript` `PostgreSQL` `pgvector` `Redis` `OpenAI` · [Live demo](https://truthyy.vercel.app) · [Code](https://github.com/tcunha2004/truthy)
 
-- **Portal InterX**: patient triage for medical clinics. WhatsApp messages go to a specialized AI agent, and service cards are created in Trello automatically.  
-  `Go` `Google ADK` `RabbitMQ` `PostgreSQL` `React` `Docker`
+- **WhatsApp ADK Gateway**: Go service that connects a WhatsApp number to a Google ADK agent, with message deduplication, batching, ordered delivery, retries, dead-letter queues, and human takeover.  
+  `Go` `PostgreSQL` `RabbitMQ` `Docker` · [Code](https://github.com/tcunha2004/whatsapp_adk_gateway)
 
-- **Holy**: a Bible-study app with an AI agent that explains and contextualizes verses.  
-  `Node.js` `NestJS` `Angular` `PostgreSQL` `Redis` `OpenAI` · [Source code](https://github.com/tcunha2004/holy-bible-api)
+- **Holy**: Bible-study app with an AI agent that explains and contextualizes verses, plus auth, onboarding, and favorites.  
+  `NestJS` `Angular` `PostgreSQL` `Redis` `OpenAI` · [Live demo](https://holy-bible-fe.vercel.app) · [API](https://github.com/tcunha2004/holy-bible-api) · [Frontend](https://github.com/tcunha2004/holy-bible-FE)
 
-## Experience
-
-- **ValleAI**, Software Engineer · Jun 2026 – Present: Go APIs, AI agents, RAG
-- **Zoppy**, Full Stack Developer · Feb – Jun 2026: features for a SaaS CRM used by thousands of users (NestJS, Angular, AWS)
-- **MIP Construtora**, IT Intern · Mar 2025 – Feb 2026: lead-capture pages and CRM integrations that cut third-party service costs
+- **Portal InterX** *(private)*: patient triage for medical clinics. WhatsApp messages go to a specialized AI agent, and service cards are created in Trello automatically.  
+  `Go` `Google ADK` `RabbitMQ` `PostgreSQL` `React`
 
 ## Stack
 
-**Languages:** Go · TypeScript · Python · SQL  
-**Backend:** Node.js · NestJS · FastAPI · REST APIs · Microservices  
-**AI & LLMs:** AI Agents · Multi-Agent Systems · RAG · Embeddings · pgvector · Google ADK · OpenAI  
-**Data & Messaging:** PostgreSQL · Redis · RabbitMQ · SQS  
-**Frontend:** React · Next.js  
-**DevOps & Tools:** Docker · AWS · Git · Claude Code · Codex · Spec-Driven Development
+**Backend:** Go · TypeScript · Node.js · NestJS · Python · FastAPI · REST · Microservices  
+**AI:** AI agents · Multi-agent systems · RAG · Embeddings · pgvector · Google ADK · OpenAI  
+**Data & infra:** PostgreSQL · Redis · RabbitMQ · SQS · Docker · AWS  
+**Frontend:** React · Next.js · Angular  
+**Workflow:** Git · Claude Code · Codex · Spec-driven development
 
-## Education
-
-- B.S. in Software Engineering, **FIAP** (São Paulo) · in progress
-- Computer Science studies, **NAU** (Stafford, TX, USA) · GPA 3.7
+**Education:** B.S. in Software Engineering at FIAP (in progress) · Computer Science studies at NAU, Texas, USA (GPA 3.7)
 
 ---
 
-![GitHub stats](./profile/stats.svg)
+![GitHub stats: commits and pull requests in the last year](./profile/stats.svg)
