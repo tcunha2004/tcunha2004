@@ -1,60 +1,45 @@
-<h1 align="center">Olá, eu sou o Thiago!</h1>
+# Thiago Cunha
 
-<h3 align="center">Software Engineer @ValleAI</h3>
+Full Stack Software Engineer building **AI agent systems** and **high-performance backends** in Go, TypeScript, and Node.js.
 
-<p align="center">
-Engenheiro de Software com experiência ponta a ponta em sistemas e integrações, atuando hoje com arquiteturas multiagentes de IA em Go. Formação em Ciência da Computação (EUA) e Engenharia de Software (FIAP), fluente em português, inglês e espanhol.
-</p>
+Belo Horizonte, Brazil · Fluent in English · [LinkedIn](https://linkedin.com/in/thiago-cunh4) · [Email](mailto:tcunhalinkedin@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiago-cunh4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tcunhalinkedin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Currently
+
+- Software Engineer at **ValleAI**: building Go microservices and RAG pipelines (embeddings + pgvector) for a multi-agent AI platform.
+- Studying Software Engineering at **FIAP**.
+
+## Selected work
+
+- **[Truthy](https://truthyy.vercel.app)**: a job-search platform for developers. A Go worker pulls listings directly from company ATSs (Lever, Greenhouse), and embeddings power semantic search and personalized recommendations.  
+  `Go` `Next.js` `TypeScript` `PostgreSQL` `pgvector` `Redis` `OpenAI` · [Source code](https://github.com/tcunha2004/truthy)
+
+- **Portal InterX**: patient triage for medical clinics. WhatsApp messages go to a specialized AI agent, and service cards are created in Trello automatically.  
+  `Go` `Google ADK` `RabbitMQ` `PostgreSQL` `React` `Docker`
+
+- **Holy**: a Bible-study app with an AI agent that explains and contextualizes verses.  
+  `Node.js` `NestJS` `Angular` `PostgreSQL` `Redis` `OpenAI` · [Source code](https://github.com/tcunha2004/holy-bible-api)
+
+## Experience
+
+- **ValleAI**, Software Engineer · Jun 2026 – Present: Go APIs, AI agents, RAG
+- **Zoppy**, Full Stack Developer · Feb – Jun 2026: features for a SaaS CRM used by thousands of users (NestJS, Angular, AWS)
+- **MIP Construtora**, IT Intern · Mar 2025 – Feb 2026: lead-capture pages and CRM integrations that cut third-party service costs
+
+## Stack
+
+**Languages:** Go · TypeScript · Python · SQL  
+**Backend:** Node.js · NestJS · FastAPI · REST APIs · Microservices  
+**AI & LLMs:** AI Agents · Multi-Agent Systems · RAG · Embeddings · pgvector · Google ADK · OpenAI  
+**Data & Messaging:** PostgreSQL · Redis · RabbitMQ · SQS  
+**Frontend:** React · Next.js  
+**DevOps & Tools:** Docker · AWS · Git · Claude Code · Codex · Spec-Driven Development
+
+## Education
+
+- B.S. in Software Engineering, **FIAP** (São Paulo) · in progress
+- Computer Science studies, **NAU** (Stafford, TX, USA) · GPA 3.7
 
 ---
 
-### 🔭 Trabalhando atualmente com
-
-- Sistemas multiagentes de IA em **Go**, na Valle AI
-- APIs de alta performance com arquitetura concorrente
-- Integrações entre IA, WhatsApp e ferramentas de gestão (ex: Trello)
-
-### 🛠️ Stack principal
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🚀 Projetos em destaque
-
-**[Portal InterX](https://github.com/tcunha2004)** — Go, Google ADK, React, RabbitMQ, PostgreSQL
-Sistema de triagem de pacientes para clínicas médicas, integrando WhatsApp a um agente de IA especializado, com criação automática de cards de atendimento no Trello.
-
-**[Holy](https://github.com/tcunha2004)** — Node.js, Angular, NestJS, PostgreSQL, Docker, Redis, OpenAI
-Aplicação full-stack que une leitura da Bíblia a um agente de IA capaz de explicar versículos e responder perguntas sobre as escrituras, com autenticação e favoritos.
-
-**[Cantinho do Estudo](https://github.com/tcunha2004)** — Node.js, Angular, NestJS, PostgreSQL, Docker, Redis
-Sistema de gestão escolar unificado, com áreas específicas para administração, professores e alunos acompanharem agenda, planos e progresso.
-
-### 🎓 Formação
-
-- Bacharelado em Ciência da Computação — North American University, Texas (EUA)
-- Bacharelado em Engenharia de Software — FIAP (em andamento)
-
-### 📫 Contato
-
-- LinkedIn: [thiago-cunh4](https://www.linkedin.com/in/thiago-cunh4/)
-- Email: tcunhalinkedin@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=tcunha2004&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="Thiago's GitHub stats" />
