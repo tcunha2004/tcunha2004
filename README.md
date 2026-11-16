@@ -32,7 +32,3 @@ Most of my day-to-day code lives in private company repositories. The projects b
 **Workflow:** Git · Claude Code · Codex · Spec-driven development
 
 **Education:** B.S. in Software Engineering at FIAP (in progress) · Computer Science studies at NAU, Texas, USA (GPA 3.7)
-
----
-
-![GitHub stats: commits and pull requests in the last year](./profile/stats.svg)
