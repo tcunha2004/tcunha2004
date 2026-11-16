@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Thiago Cunha&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Commits  (last year) : 1220, Total PRs: 24</desc>
+        <desc id="descId">Total Commits  (last year) : 1215, Total PRs: 24</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 189.0158505573682;
+        stroke-dashoffset: 189.03570837256785;
       }
     }
   
