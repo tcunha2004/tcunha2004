@@ -8,20 +8,6 @@ Belo Horizonte, Brazil · Fluent in English · [LinkedIn](https://linkedin.com/i
 
 Most of my day-to-day code lives in private company repositories. The projects below are my public work.
 
-## Selected work
-
-- **Truthy**: job search for developers, with listings pulled straight from company ATSs (Lever, Greenhouse) and embedding-based semantic search and recommendations.  
-  `Go` `Next.js` `TypeScript` `PostgreSQL` `pgvector` `Redis` `OpenAI` · [Live demo](https://truthyy.vercel.app) · [Code](https://github.com/tcunha2004/truthy)
-
-- **WhatsApp ADK Gateway**: Go service that connects a WhatsApp number to a Google ADK agent, with message deduplication, batching, ordered delivery, retries, dead-letter queues, and human takeover.  
-  `Go` `PostgreSQL` `RabbitMQ` `Docker` · [Code](https://github.com/tcunha2004/whatsapp_adk_gateway)
-
-- **Holy**: Bible-study app with an AI agent that explains and contextualizes verses, plus auth, onboarding, and favorites.  
-  `NestJS` `Angular` `PostgreSQL` `Redis` `OpenAI` · [Live demo](https://holy-bible-fe.vercel.app) · [API](https://github.com/tcunha2004/holy-bible-api) · [Frontend](https://github.com/tcunha2004/holy-bible-FE)
-
-- **Portal InterX** *(private)*: patient triage for medical clinics. WhatsApp messages go to a specialized AI agent, and service cards are created in Trello automatically.  
-  `Go` `Google ADK` `RabbitMQ` `PostgreSQL` `React`
-
 ## Stack
 
 **Backend:** Go · TypeScript · Node.js · NestJS · Python · FastAPI · REST · Microservices  
