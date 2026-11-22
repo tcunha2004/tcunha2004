@@ -11,9 +11,9 @@ Most of my day-to-day code lives in private company repositories. The projects b
 ## Stack
 
 **Backend:** Go · TypeScript · Node.js · NestJS · Python · FastAPI · REST · Microservices  
-**AI:** AI agents · Multi-agent systems · RAG · Embeddings · pgvector · Google ADK · OpenAI  
+**AI:** LangGraph · AI agents · RAG · Embeddings · pgvector · OpenAI  
 **Data & infra:** PostgreSQL · Redis · RabbitMQ · SQS · Docker · AWS  
-**Frontend:** React · Next.js · Angular  
+**Frontend:** React · Next.js  
 **Workflow:** Git · Claude Code · Codex · Spec-driven development
 
 **Education:** B.S. in Software Engineering at FIAP (in progress) · Computer Science studies at NAU, Texas, USA (GPA 3.7)
